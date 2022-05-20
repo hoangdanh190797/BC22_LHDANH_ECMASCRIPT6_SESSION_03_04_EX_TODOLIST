@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "todoType": 1,
+        "content": "Learn to English"
+    },
+    {
+        "id": 2,
+        "todoType": 2,
+        "content": "Work from home"
+    }
+]
